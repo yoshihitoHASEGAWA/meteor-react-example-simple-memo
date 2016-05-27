@@ -38,7 +38,7 @@ body {
 .memo-item {
   display: inline-block;
   position: relative;
-  background-color: #FEF3A1;
+  background-color: #B4FDA5; /* 色を黄色から緑に変更 */
   min-height: 200px;
   width: 300px;
   border: 1px solid rgba(200, 200, 200, 0.2);
@@ -48,7 +48,6 @@ body {
   margin: 10px;
   font-size: 20px;
 }
-
 
 @media screen and (max-width: 705px) {
   .memo-item {
