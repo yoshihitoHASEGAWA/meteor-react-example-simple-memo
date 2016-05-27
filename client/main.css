@@ -38,7 +38,7 @@ body {
 .memo-item {
   display: inline-block;
   position: relative;
-  background-color: #AFF4FE; /* 変更箇所: 色を緑から青へ */
+  background-color: #FEC7C8; /* 変更箇所: 色を青からピンクへ */
   min-height: 200px;
   width: 300px;
   border: 1px solid rgba(200, 200, 200, 0.2);
